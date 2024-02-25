@@ -1,0 +1,15 @@
+/Users/f/RiderProjects/DzGlow/DzGlow/bin/Debug/net7.0/DzGlow
+/Users/f/RiderProjects/DzGlow/DzGlow/bin/Debug/net7.0/DzGlow.deps.json
+/Users/f/RiderProjects/DzGlow/DzGlow/bin/Debug/net7.0/DzGlow.runtimeconfig.json
+/Users/f/RiderProjects/DzGlow/DzGlow/bin/Debug/net7.0/DzGlow.dll
+/Users/f/RiderProjects/DzGlow/DzGlow/bin/Debug/net7.0/DzGlow.pdb
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.csproj.AssemblyReference.cache
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.AssemblyInfoInputs.cache
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.AssemblyInfo.cs
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.csproj.CoreCompileInputs.cache
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.dll
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/refint/DzGlow.dll
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.pdb
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/DzGlow.genruntimeconfig.cache
+/Users/f/RiderProjects/DzGlow/DzGlow/obj/Debug/net7.0/ref/DzGlow.dll
