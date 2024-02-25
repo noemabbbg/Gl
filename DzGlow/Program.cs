@@ -14,8 +14,8 @@ class Program
         
         Queue<Animal> animals = new Queue<Animal>();
         animals.Enqueue(new PetAnimal { Name = "Кот" });
-        animals.Enqueue(new PetAnimal() { Name = "Собака" });
-        animals.Enqueue(new PetAnimal() { Name = "Крыса" });
+        animals.Enqueue(new PetAnimal { Name = "Собака" });
+        animals.Enqueue(new PetAnimal { Name = "Крыса" });
         animals.Enqueue(new WildAnimal { Name = "Лев" });
         animals.Enqueue(new WildAnimal { Name = "Бегемот" });
         animals.Enqueue(new WildAnimal { Name = "Жираф" });
