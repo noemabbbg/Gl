@@ -1,6 +1,5 @@
 SELECT 
     substr(NAME, 1, instr(NAME, ' ') - 1) AS Lastname,
-    COUNT(*) AS NumTwos
+    SUM(CASE WHEN MARK = 2 THEN 1 ELSE 0 END) AS NumDva
 FROM students
-WHERE MARK = 2
-GROUP BY substr(NAME, 1, instr(NAME, ' ') - 1);
+GROUP BY Lastname;
